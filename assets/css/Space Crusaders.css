@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Space Crusaders';
+	src: url(../../assets/fonts/Space%20Crusaders-8f4216796c88eb1886f574fd208742c2.woff2) format('woff2'),
+	url(../../assets/fonts/Space%20Crusaders-6dc08d4bc6cdce0debdd6057c86cbfa5.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
