@@ -1,8 +1,0 @@
-@font-face {
-	font-family: 'BreezedCaps';
-	src: url(../../assets/fonts/BreezedCaps-c03c13099e9efeed0b17041fae60f0ff.woff2) format('woff2'),
-	url(../../assets/fonts/BreezedCaps-a1f8931736091cb3ab6533a2f2e6f765.woff) format('woff');
-	font-weight: bold;
-	font-style: italic;
-	font-display: swap;
-}
